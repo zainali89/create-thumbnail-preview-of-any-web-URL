@@ -1,0 +1,1 @@
+# create-thumbnail-preview-of-any-web-URL
